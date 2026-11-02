@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @LucaForacchia
-- 👀 I’m interested in trail running, cycling and chess. Oh, and coding, when I'm not on the mountains or at the chessboard.
-- 🌱 I’m currently learning how to build a chess engine from scratch, without millions of investment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Luca 👋
 
-<!---
-LucaForacchia/LucaForacchia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+By day I'm a data scientist, working with Python, SQL and machine learning. That code stays private.
+
+This is where I code for fun, mostly small tools that solve problems nobody asked me to solve:
+
+- 🍝 **[MealTracker](https://github.com/LucaForacchia/meal-tracker-backend)**: what we eat at home, and how often the same dish comes back. A Flask [backend](https://github.com/LucaForacchia/meal-tracker-backend) and [webapp](https://github.com/LucaForacchia/meal-tracker-webapp), with far more tests than a meal log deserves.
+- 🐟 **[Tuna Counter](https://github.com/LucaForacchia/tuna-counter)**: an Android app to count the tuna cans at home. Yes, really.
+- 🏃 **[MyActivities](https://github.com/LucaForacchia/MyActivities)**: scripts that dig through my sport data.
+- 🔐 **[EasyCrypt](https://github.com/LucaForacchia/EasyCrypt-)**: a souvenir from my maths days, formal work on graph 3-colorability.
+
+When I'm not here, I'm probably on a trail, on a bike or at a chessboard.
